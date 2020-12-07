@@ -141,6 +141,7 @@
 - Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
 - Omeka Classic 설치방법 동영상 : [https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf](https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 - Omeka 사이트 모음 : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
+- Omeka 플러그인+테마 모음(Daniel-KM) : https://daniel-km.github.io/UpgradeToOmekaS/omeka_plugins.html
 - 오픈소스 기록관리 소프트웨어 포럼(OSASF) : [https://osasf.net/](https://osasf.net/)
 
 <br><br>
